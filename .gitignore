@@ -1,0 +1,31 @@
+# Ignora le cartelle generate dinamicamente dall'engine
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Ignora file di cache e metadati autogenerati
+/[Mm]emoryCaptures/
+sysinfo.txt
+crash_info.txt
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Ignora i file OS di sistema
+.DS_Store
+Thumbs.db

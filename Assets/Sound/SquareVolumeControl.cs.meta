@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2056976604511a24ab0ddb32d70d2aaa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - squareOnSprite: {fileID: 5663308512722669385, guid: ec741c36605c1474296f10dd78bd3675, type: 3}
+  - squareOffSprite: {fileID: -2312055536809386221, guid: edb9aa3b93de77d44aedb8983e8c9f42, type: 3}
+  - audioMixer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

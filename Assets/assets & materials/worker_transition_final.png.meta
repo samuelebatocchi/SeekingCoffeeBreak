@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: 4250974bf28c8cb40a94d1ea4b6317a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 729688976618469761
+    second: worker_transition_final_0
+  - first:
+      213: 78217502428885338
+    second: worker_transition_final_1
+  - first:
+      213: -484157721292404029
+    second: worker_transition_final_2
+  - first:
+      213: 6367435172552547028
+    second: worker_transition_final_3
+  - first:
+      213: -4618454572070738986
+    second: worker_transition_final_4
+  - first:
+      213: -4183681941167370639
+    second: worker_transition_final_5
+  - first:
+      213: 7289278827444652019
+    second: worker_transition_final_6
+  - first:
+      213: 4736635785346310844
+    second: worker_transition_final_7
+  - first:
+      213: 408197702257241564
+    second: worker_transition_final_8
+  - first:
+      213: 9017678289760503872
+    second: worker_transition_final_9
+  - first:
+      213: -4921455498371079485
+    second: worker_transition_final_10
+  - first:
+      213: 3263311406009130130
+    second: worker_transition_final_11
+  - first:
+      213: -8443740982902472469
+    second: worker_transition_final_12
+  - first:
+      213: 2028454211839147969
+    second: worker_transition_final_13
+  - first:
+      213: 14941814123668686
+    second: worker_transition_final_14
+  - first:
+      213: 1650551271318663083
+    second: worker_transition_final_15
+  - first:
+      213: -3035845373737297630
+    second: worker_transition_final_16
+  - first:
+      213: 1157551637305257921
+    second: worker_transition_final_17
+  - first:
+      213: 417052771316395416
+    second: worker_transition_final_18
+  - first:
+      213: 8400456177663135784
+    second: worker_transition_final_19
+  - first:
+      213: 6096534455457006962
+    second: worker_transition_final_20
+  - first:
+      213: 864743852505475991
+    second: worker_transition_final_21
+  - first:
+      213: -3734582576839611317
+    second: worker_transition_final_22
+  - first:
+      213: -4225593679027399073
+    second: worker_transition_final_23
+  - first:
+      213: -3131747527874467700
+    second: worker_transition_final_24
+  - first:
+      213: -8844723944758890877
+    second: worker_transition_final_25
+  - first:
+      213: 3678424106220504873
+    second: worker_transition_final_26
+  - first:
+      213: 8888085570407186961
+    second: worker_transition_final_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: worker_transition_final_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 933
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189bcd71240602a00800000000000000
+      internalID: 729688976618469761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 933
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51fd7f6762e51100800000000000000
+      internalID: 78217502428885338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_2
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 933
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca8a1f1e1de749f0800000000000000
+      internalID: -484157721292404029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_3
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 933
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3e17c4904f7efb0800000000000000
+      internalID: -4618454572070738986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_4
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 933
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e808bc07390f5c0800000000000000
+      internalID: -4183681941167370639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_5
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 21
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f74d9a2978b82560800000000000000
+      internalID: 7289278827444652019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_7
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 21
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb268f7a629ebb140800000000000000
+      internalID: 4736635785346310844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 21
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd6c21c5a53aa500800000000000000
+      internalID: 408197702257241564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 21
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0484de770aa352d70800000000000000
+      internalID: 9017678289760503872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 321
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2e2b99c4a73bbb0800000000000000
+      internalID: -4921455498371079485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 321
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c97aa1f6c994d20800000000000000
+      internalID: 3263311406009130130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_12
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 321
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0c0ba105ec1da80800000000000000
+      internalID: -8443740982902472469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_13
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 321
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf31d3cb54862c10800000000000000
+      internalID: 2028454211839147969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_14
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 321
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec424233085153000800000000000000
+      internalID: 14941814123668686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_15
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 624
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafa482e2afe7e610800000000000000
+      internalID: 1650551271318663083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_16
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 624
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229106997b28ed5d0800000000000000
+      internalID: -3035845373737297630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_17
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 624
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf60c6c413701010800000000000000
+      internalID: 1157551637305257921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 624
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89de7ee294ba9c500800000000000000
+      internalID: 417052771316395416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 624
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820d8d4d26a649470800000000000000
+      internalID: 8400456177663135784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worker_transition_final_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 21
+        width: 145
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef9167c637bd1a4a9628e8c68b9e73d
+      internalID: 830617983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b05bf59d39cf6144288da90e6097456e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      worker_transition_final_0: 729688976618469761
+      worker_transition_final_1: 78217502428885338
+      worker_transition_final_10: -4921455498371079485
+      worker_transition_final_11: 3263311406009130130
+      worker_transition_final_12: -8443740982902472469
+      worker_transition_final_13: 2028454211839147969
+      worker_transition_final_14: 14941814123668686
+      worker_transition_final_15: 1650551271318663083
+      worker_transition_final_16: -3035845373737297630
+      worker_transition_final_17: 1157551637305257921
+      worker_transition_final_18: 417052771316395416
+      worker_transition_final_19: 8400456177663135784
+      worker_transition_final_2: -484157721292404029
+      worker_transition_final_20: 6096534455457006962
+      worker_transition_final_21: 864743852505475991
+      worker_transition_final_22: -3734582576839611317
+      worker_transition_final_23: -4225593679027399073
+      worker_transition_final_24: -3131747527874467700
+      worker_transition_final_25: -8844723944758890877
+      worker_transition_final_26: 3678424106220504873
+      worker_transition_final_27: 8888085570407186961
+      worker_transition_final_3: -4618454572070738986
+      worker_transition_final_4: -4183681941167370639
+      worker_transition_final_5: 7289278827444652019
+      worker_transition_final_6: 830617983
+      worker_transition_final_7: 4736635785346310844
+      worker_transition_final_8: 408197702257241564
+      worker_transition_final_9: 9017678289760503872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
